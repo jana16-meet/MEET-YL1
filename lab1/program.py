@@ -1,0 +1,2 @@
+print ("Jana Dajani")
+printMyName()
